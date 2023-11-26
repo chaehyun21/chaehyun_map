@@ -22,53 +22,53 @@ const closePopup = document.querySelector('.close');
 
 
 image1.addEventListener('click', function() {
-    openPopup('./image/1.png');
+    openPopup('/image/1.png');
 });
 image2.addEventListener('click', function() {
-    openPopup('./image/2.png');
+    openPopup('/image/2.png');
 });
 image3.addEventListener('click', function() {
-    openPopup('./image/3.png');
+    openPopup('/image/3.png');
 });
 image4.addEventListener('click', function() {
-    openPopup('./image/4.png');
+    openPopup('/image/4.png');
 });
 image5.addEventListener('click', function() {
-    openPopup('./image/5.png');
+    openPopup('/image/5.png');
 });
 image6.addEventListener('click', function() {
-    openPopup('./image/6.png');
+    openPopup('/image/6.png');
 });
 image7.addEventListener('click', function() {
-    openPopup('./image/7.png');
+    openPopup('/image/7.png');
 });
 image8.addEventListener('click', function() {
-    openPopup('./image/8.png');
+    openPopup('/image/8.png');
 });
 image9.addEventListener('click', function() {
-    openPopup('./image/9.png');
+    openPopup('/image/9.png');
 });
 image10.addEventListener('click', function() {
-    openPopup('./image/10.png');
+    openPopup('/image/10.png');
 });
 image11.addEventListener('click', function() {
-    openPopup('./image/11.png');
+    openPopup('/image/11.png');
 });
 image12.addEventListener('click', function() {
-    openPopup('./image/12.png');
+    openPopup('/image/12.png');
 });
 image13.addEventListener('click', function() {
-    openPopup('./image/13.png');
+    openPopup('/image/13.png');
 });
 image14.addEventListener('click', function() {
-    openPopup('./image/14.png');
+    openPopup('/image/14.png');
 });
 image15.addEventListener('click', function() {
-    openPopup('./image/15.png');
+    openPopup('/image/15.png');
 });
 
 image16.addEventListener('click', function() {
-    openPopup('./image/16.png');
+    openPopup('/image/16.png');
 });
 
 
@@ -90,116 +90,116 @@ function openPopup(imageSrc) {
 
 
 image1.addEventListener('mouseover', function() {
-    image1.src = './image/gw1.gif';
+    image1.src = '/image/gw1.gif';
 });
 image1.addEventListener('mouseout', function() {
-    image1.src = './image/gw1.png';
+    image1.src = '/image/gw1.png';
 });
 
 image2.addEventListener('mouseover', function() {
-    image2.src = './image/gw2.gif';
+    image2.src = '/image/gw2.gif';
 });
 image2.addEventListener('mouseout', function() {
-    image2.src = './image/gw2.png';
+    image2.src = '/image/gw2.png';
 });
 
 image3.addEventListener('mouseover', function() {
-    image3.src = './image/jj1.gif';
+    image3.src = '/image/jj1.gif';
 });
 image3.addEventListener('mouseout', function() {
-    image3.src = './image/jj1.png';
+    image3.src = '/image/jj1.png';
 });
 
 image4.addEventListener('mouseover', function() {
-    image4.src = './image/jj2.gif';
+    image4.src = '/image/jj2.gif';
 });
 image4.addEventListener('mouseout', function() {
-    image4.src = './image/jj2.png';
+    image4.src = '/image/jj2.png';
 });
 
 image5.addEventListener('mouseover', function() {
-    image5.src = './image/jj3.gif';
+    image5.src = '/image/jj3.gif';
 });
 image5.addEventListener('mouseout', function() {
-    image5.src = './image/jj3.png';
+    image5.src = '/image/jj3.png';
 });
 
 image6.addEventListener('mouseover', function() {
-    image6.src = './image/cc1.gif';
+    image6.src = '/image/cc1.gif';
 });
 image6.addEventListener('mouseout', function() {
-    image6.src = './image/cc1.png';
+    image6.src = '/image/cc1.png';
 });
 
 image7.addEventListener('mouseover', function() {
-    image7.src = './image/cc2.gif';
+    image7.src = '/image/cc2.gif';
 });
 image7.addEventListener('mouseout', function() {
-    image7.src = './image/cc2.png';
+    image7.src = '/image/cc2.png';
 });
 
 image8.addEventListener('mouseover', function() {
-    image8.src = './image/cc3.gif';
+    image8.src = '/image/cc3.gif';
 });
 image8.addEventListener('mouseout', function() {
-    image8.src = './image/cc3.png';
+    image8.src = '/image/cc3.png';
 });
 
 image9.addEventListener('mouseover', function() {
-    image9.src = './image/gs1.gif';
+    image9.src = '/image/gs1.gif';
 });
 image9.addEventListener('mouseout', function() {
-    image9.src = './image/gs1.png';
+    image9.src = '/image/gs1.png';
 });
 
 image10.addEventListener('mouseover', function() {
-    image10.src = './image/gs2.gif';
+    image10.src = '/image/gs2.gif';
 });
 image10.addEventListener('mouseout', function() {
-    image10.src = './image/gs2.png';
+    image10.src = '/image/gs2.png';
 });
 
 image11.addEventListener('mouseover', function() {
-    image11.src = './image/gs3.gif';
+    image11.src = '/image/gs3.gif';
 });
 image11.addEventListener('mouseout', function() {
-    image11.src = './image/gs3.png';
+    image11.src = '/image/gs3.png';
 });
 
 
 image12.addEventListener('mouseover', function() {
-    image12.src = './image/jl1.gif';
+    image12.src = '/image/jl1.gif';
 });
 image12.addEventListener('mouseout', function() {
-    image12.src = './image/jl1.png';
+    image12.src = '/image/jl1.png';
 });
 
 image13.addEventListener('mouseover', function() {
-    image13.src = './image/jl2.gif';
+    image13.src = '/image/jl2.gif';
 });
 image13.addEventListener('mouseout', function() {
-    image13.src = './image/jl2.png';
+    image13.src = '/image/jl2.png';
 });
 
 image14.addEventListener('mouseover', function() {
-    image14.src = './image/jl3.gif';
+    image14.src = '/image/jl3.gif';
 });
 image14.addEventListener('mouseout', function() {
-    image14.src = './image/jl3.png';
+    image14.src = '/image/jl3.png';
 });
 
 image15.addEventListener('mouseover', function() {
-    image15.src = './image/gg1.gif';
+    image15.src = '/image/gg1.gif';
 });
 image15.addEventListener('mouseout', function() {
-    image15.src = './image/gg1.png';
+    image15.src = '/image/gg1.png';
 });
 
 image16.addEventListener('mouseover', function() {
-    image16.src = './image/gg2.gif';
+    image16.src = '/image/gg2.gif';
 });
 image16.addEventListener('mouseout', function() {
-    image16.src = './image/gg2.png';
+    image16.src = '/image/gg2.png';
 });
 
 document.querySelector('.map2').style.display = 'none';
